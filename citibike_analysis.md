@@ -19,6 +19,9 @@ After considering that, and the "Doh!" moment, a few other factors were consider
 ---
 Since New York's Citi Bike rentals are driven by outdoor activities more than McDonald's.  The abundance of outdoor trails, parks and activities will generate a similar synergy in Des Moines, IA.  Climates are nearly identical and present no drag on growth in this investment opportunity.  Furthermore, the 5x growth rate of Des Moines when compared to New York City for 2018, is a continuation of a steady trend of higher growth in the midwest and out-migration from larger cities.  The opportunity is ripe and ready for the investor that wants to win with the next Citi Bike expansion!
 
+For a complete visualization of this recommendation, please visit the Tableau repository located here:
+[Tableau link](https://public.tableau.com/profile/b.bb#!/vizhome/bike_cw/DesMoinesCitiBike?publish=yes)
+
 ### Sources
 ---  
 ######
