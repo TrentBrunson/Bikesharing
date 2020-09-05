@@ -13,7 +13,7 @@ After considering that, and the "Doh!" moment, a few other factors were consider
 
 2. How do the population demographics compare?  Des Moines is significantly smaller but is growing at 5 times the rate of New York's population.  The immediate opportunity may be smaller, but with the much, much higher growth rate of Des Moines, that makes this opportunity particularly intriquing for an investor.
 
-3. Current utilization.  Where do New Yorkers and their tourists spend the most time on bike rentals?  There was a monstruous difference around parks and tourist sites like the Statue of Liberty.  What does Des Moines have that would appeal in a complementary fashion to spark bike rental interest?  It has hundreds of miles of prepared bike paths and shoulders [Iowa DOT](https://iowadot.gov/iowabikes/bikemap/home.aspx), plus no snarling New York attitudes nor their cabbies who use bike rentals as target practice!
+3. Current utilization.  Where do New Yorkers and their tourists spend the most time on bike rentals?  There was a monstruous difference around parks and tourist sites like the Statue of Liberty.  What does Des Moines have that would appeal in a complementary fashion to spark bike rental interest?  It has hundreds of miles of prepared bike paths and shoulders ([Iowa DOT](https://iowadot.gov/iowabikes/bikemap/home.aspx)), plus no snarling New York attitudes nor their cabbies who use bike rentals as target practice!
 
 ### Conclusion
 ---
